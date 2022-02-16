@@ -1,3 +1,3 @@
-# alx-pre_course
+# First task
 
-I'm now a **ALX Student**, this is my first project as a _full-stack engineer_
+First **ALX School** _project_
