@@ -1,3 +1,3 @@
-# Repo session
+# New directory
 
-**0x01-git** _directory_
+A new _directory_ **0x01-git**
