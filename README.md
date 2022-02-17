@@ -2,4 +2,4 @@
 
 First **ALX School** _project_
 
-All _changes_ **up_to_date**
+**be up to date**
