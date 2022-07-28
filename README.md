@@ -1,6 +1,6 @@
 # First task
 
-### First **_ALX School_** _project_**
+### First **_ALX School_** **_project_**
 
 * A general introduction to software engineering
 
